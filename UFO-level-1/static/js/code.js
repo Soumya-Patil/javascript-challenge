@@ -1,7 +1,6 @@
 // from data.js
 var tableData = data;
 
-// YOUR CODE HERE!
 // Get references to the tbody element, input field and button
 // from data.js
 
